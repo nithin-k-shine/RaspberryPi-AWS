@@ -1,5 +1,4 @@
-# RaspberryPi-AWS
-## Connecting Raspberry Pi with AWS cloud and database.
+# Connecting Raspberry Pi with AWS cloud and database.
 ### Refer [Sending-sensor-data-from-ESP32-to-AWS-DynamoDB-cloud-storage](https://github.com/nithin-k-shine/Sending-sensor-data-from-ESP32-to-AWS-DynamoDB-cloud-storage) for configuring device and database in AWS.
 Example command to run the given program specifying the location of file and certificates along with the MQTT topic and iot endpoint:
 ```linux
